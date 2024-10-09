@@ -1,12 +1,18 @@
 <h1 align="center"> Rethinking the Evaluation of Visible and Infrared Image Fusion </h1>
 
 <h4 align="center">
-    <a href="https://scholar.google.com/citations?user=DsLYx7YAAAAJ&hl=en">Dayan Guan</a>,
-    <a href="https://github.com/Yixuan-Wu-NEU">Yixuan Wu</a>,
-    <a>Tianzhu Liu</a>,
-    <a href="https://ieeexplore.ieee.org/author/37271226200">Alex C. Kot</a>,
-    <a href="https://scholar.google.com/citations?user=WHkRZscAAAAJ&hl=zh-TW&oi=ao">Yanfeng Gu</a>
+    <a href="https://scholar.google.com/citations?user=DsLYx7YAAAAJ&hl=en">Dayan Guan</a><sup>1</sup>,
+    <a href="https://github.com/Yixuan-Wu-NEU">Yixuan Wu</a><sup>2</sup>,
+    <a>Tianzhu Liu</a><sup>1</sup>,
+    <a href="https://ieeexplore.ieee.org/author/37271226200">Alex C. Kot</a><sup>3</sup>,
+    <a href="https://scholar.google.com/citations?user=WHkRZscAAAAJ&hl=zh-TW&oi=ao">Yanfeng Gu</a><sup>1</sup>
 </h4>
+
+<ul align="center">
+  <sup>1</sup>Harbin Institute of Technology</li>
+  <sup>2</sup>Northeastern University</li>
+  <sup>3</sup>Nanyang Technological University</li>
+</ul>
 
 <h5 align="center">
 
