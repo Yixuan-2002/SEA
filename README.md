@@ -3,7 +3,7 @@
 <h4 align="center">
     <a href="https://scholar.google.com/citations?user=DsLYx7YAAAAJ&hl=en">Dayan Guan</a><sup>1</sup>,
     <a href="https://github.com/Yixuan-Wu-NEU">Yixuan Wu</a><sup>2</sup>,
-    <a>Tianzhu Liu</a><sup>1</sup>,
+    <a href="https://www.researchgate.net/profile/Tianzhu-Liu-3">Tianzhu Liu</a><sup>1</sup>,
     <a href="https://ieeexplore.ieee.org/author/37271226200">Alex C. Kot</a><sup>3</sup>,
     <a href="https://scholar.google.com/citations?user=WHkRZscAAAAJ&hl=zh-TW&oi=ao">Yanfeng Gu</a><sup>1</sup>
 </h4>
