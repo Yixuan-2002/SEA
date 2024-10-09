@@ -4,7 +4,7 @@
     <a href="https://scholar.google.com/citations?user=DsLYx7YAAAAJ&hl=en">Dayan Guan</a>,
     <a href="https://github.com/Yixuan-Wu-NEU">Yixuan Wu</a>,
     <a>Tianzhu Liu</a>,
-    <a>Alex C. Kot</a>,
+    <a href="https://ieeexplore.ieee.org/author/37271226200">Alex C. Kot</a>,
     <a href="https://scholar.google.com/citations?user=WHkRZscAAAAJ&hl=zh-TW&oi=ao">Yanfeng Gu</a>
 </h4>
 
@@ -15,6 +15,8 @@
 [![Huggingface Dataset](https://img.shields.io/badge/Dataset-blue.svg?style=flat-square)]()
 
 </h5>
+
+## Examples
 
 ![Example Figure](example.png)
 
@@ -85,9 +87,7 @@ sh GroundedSAM.sh
 
 # Citation
 
-<!-->
 Please consider citing if you find our work useful:
 ```
 
 ```
--->
