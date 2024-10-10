@@ -95,5 +95,10 @@ sh GroundedSAM.sh
 
 Please consider citing if you find our work useful:
 ```
-
+@article{guan2024rethinking,
+  title={Rethinking the Evaluation of Visible and Infrared Image Fusion},
+  author={Guan, Dayan and Wu, Yixuan and Liu, Tianzhu and Kot, Alex C. and Gu, Yanfeng},
+  journal={arXiv preprint arXiv:2410.06811},
+  year={2024}
+}
 ```
