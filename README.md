@@ -16,8 +16,7 @@
 
 <h5 align="center">
 
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg?style=flat-square) 
-![Research Paper](https://img.shields.io/badge/Paper-brightgreen.svg?style=flat-square)
+[![arXiv](https://img.shields.io/badge/Arxiv-2312.02896-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2410.06811)
 
 </h5>
 
