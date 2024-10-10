@@ -17,7 +17,7 @@
 <h5 align="center">
 
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg?style=flat-square) 
-[![Research Paper]<a href="https://arxiv.org/abs/2410.06811">(https://img.shields.io/badge/Paper-brightgreen.svg?style=flat-square)]()
+[!<a href="https://arxiv.org/abs/2410.06811">[Research Paper](https://img.shields.io/badge/Paper-brightgreen.svg?style=flat-square)]()
 
 </h5>
 
