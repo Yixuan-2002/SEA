@@ -17,8 +17,7 @@
 <h5 align="center">
 
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg?style=flat-square) 
-[![Research Paper](https://img.shields.io/badge/Paper-brightgreen.svg?style=flat-square)]()
-[![Huggingface Dataset](https://img.shields.io/badge/Dataset-blue.svg?style=flat-square)]()
+[![Research Paper](https://arxiv.org/abs/2410.06811)]()
 
 </h5>
 
